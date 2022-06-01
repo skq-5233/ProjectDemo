@@ -1,0 +1,8 @@
+<ie>
+    <plugins>
+        <plugin name="CPU" location="MKLDNNPlugin.dll">
+        </plugin>
+        <plugin name="GPU" location="clDNNPlugin.dll">
+        </plugin>
+    </plugins>
+</ie>

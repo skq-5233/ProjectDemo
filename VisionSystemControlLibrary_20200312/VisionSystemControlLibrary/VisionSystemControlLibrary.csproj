@@ -1,0 +1,759 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E2CAB253-9A90-4244-914B-9E62B206B708}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VisionSystemControlLibrary</RootNamespace>
+    <AssemblyName>VisionSystemControlLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="DTControl, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DTControl.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV, Version=2.4.10.1939, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\Emgu.CV.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.UI, Version=2.4.10.1939, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\Emgu.CV.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.Util, Version=2.4.10.1939, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\Emgu.Util.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.JScript" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="VisionSystemClassLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\VisionSystemClassLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationRegistrationWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationRegistrationWindow.Designer.cs">
+      <DependentUpon>ApplicationRegistrationWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BackupBrandsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BackupBrandsControl.Designer.cs">
+      <DependentUpon>BackupBrandsControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BrandControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BrandControl.Designer.cs">
+      <DependentUpon>BrandControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CigaretteSort.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CigaretteSort.Designer.cs">
+      <DependentUpon>CigaretteSort.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CigaretteSortWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CigaretteSortWindow.Designer.cs">
+      <DependentUpon>CigaretteSortWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomMeter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomMeter.designer.cs">
+      <DependentUpon>CustomMeter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DateTimePanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DateTimePanel.designer.cs">
+      <DependentUpon>DateTimePanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DateTimePanelWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DateTimePanelWindow.designer.cs">
+      <DependentUpon>DateTimePanelWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditTools.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EditTools.designer.cs">
+      <DependentUpon>EditTools.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditToolsWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditToolsWindow.designer.cs">
+      <DependentUpon>EditToolsWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FaultMessage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FaultMessage.designer.cs">
+      <DependentUpon>FaultMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FaultMessageOption.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FaultMessageOption.designer.cs">
+      <DependentUpon>FaultMessageOption.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FaultMessageOptionWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FaultMessageOptionWindow.designer.cs">
+      <DependentUpon>FaultMessageOptionWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FaultMessageWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FaultMessageWindow.designer.cs">
+      <DependentUpon>FaultMessageWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlobalWindows.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GlobalWindows.Designer.cs">
+      <DependentUpon>GlobalWindows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImageConfigurationControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ImageConfigurationControl.Designer.cs">
+      <DependentUpon>ImageConfigurationControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomButton.Designer.cs">
+      <DependentUpon>CustomButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomList.Designer.cs">
+      <DependentUpon>CustomList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomListHeader.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomListHeader.Designer.cs">
+      <DependentUpon>CustomListHeader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomListItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomListItem.Designer.cs">
+      <DependentUpon>CustomListItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeviceConfigurationWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeviceConfigurationWindow.Designer.cs">
+      <DependentUpon>DeviceConfigurationWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeviceControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DeviceControl.Designer.cs">
+      <DependentUpon>DeviceControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DigitalKeyboardWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DigitalKeyboardWindow.Designer.cs">
+      <DependentUpon>DigitalKeyboardWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImageDisplay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ImageDisplay.Designer.cs">
+      <DependentUpon>ImageDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IOSignalDiagnosisWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IOSignalDiagnosisWindow.Designer.cs">
+      <DependentUpon>IOSignalDiagnosisWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LiveControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LiveControl.Designer.cs">
+      <DependentUpon>LiveControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageDisplayWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageDisplayWindow.Designer.cs">
+      <DependentUpon>MessageDisplayWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomProgressBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomProgressBar.Designer.cs">
+      <DependentUpon>CustomProgressBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NetDiagnose.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NetDiagnose.designer.cs">
+      <DependentUpon>NetDiagnose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NetDiagnoseWindows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NetDiagnoseWindows.Designer.cs">
+      <DependentUpon>NetDiagnoseWindows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewTool.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NewTool.designer.cs">
+      <DependentUpon>NewTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewToolWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewToolWindow.designer.cs">
+      <DependentUpon>NewToolWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ParameterSettings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ParameterSettings.Designer.cs">
+      <DependentUpon>ParameterSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ParameterSettingsPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ParameterSettingsPanel.designer.cs">
+      <DependentUpon>ParameterSettingsPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ParameterSettingsWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ParameterSettingsWindow.Designer.cs">
+      <DependentUpon>ParameterSettingsWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="QualityCheckControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="QualityCheckControl.designer.cs">
+      <DependentUpon>QualityCheckControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RejectsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RejectsControl.Designer.cs">
+      <DependentUpon>RejectsControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RejectsSlot.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RejectsSlot.Designer.cs">
+      <DependentUpon>RejectsSlot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RestoreBrandsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RestoreBrandsControl.Designer.cs">
+      <DependentUpon>RestoreBrandsControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SensorSelect.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SensorSelect.Designer.cs">
+      <DependentUpon>SensorSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SensorSelectWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SensorSelectWindow.Designer.cs">
+      <DependentUpon>SensorSelectWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShiftConfiguration.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShiftConfiguration.designer.cs">
+      <DependentUpon>ShiftConfiguration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShiftConfigurationWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShiftConfigurationWindow.designer.cs">
+      <DependentUpon>ShiftConfigurationWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SizeAdjustedPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SizeAdjustedPanel.designer.cs">
+      <DependentUpon>SizeAdjustedPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoadControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LoadControl.Designer.cs">
+      <DependentUpon>LoadControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StandardKeyboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StandardKeyboard.designer.cs">
+      <DependentUpon>StandardKeyboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StandardKeyboardWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StandardKeyboardWindow.designer.cs">
+      <DependentUpon>StandardKeyboardWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StatisticsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StatisticsControl.designer.cs">
+      <DependentUpon>StatisticsControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StatisticsRecord.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StatisticsRecord.designer.cs">
+      <DependentUpon>StatisticsRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StatisticsRecordWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StatisticsRecordWindow.Designer.cs">
+      <DependentUpon>StatisticsRecordWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SystemControl.Designer.cs">
+      <DependentUpon>SystemControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TitleBarControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TitleBarControl.designer.cs">
+      <DependentUpon>TitleBarControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tolerances.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Tolerances.Designer.cs">
+      <DependentUpon>Tolerances.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TolerancesControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TolerancesControl.Designer.cs">
+      <DependentUpon>TolerancesControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StatusBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StatusBar.Designer.cs">
+      <DependentUpon>StatusBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WorkControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WorkControl.Designer.cs">
+      <DependentUpon>WorkControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DigitalKeyboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DigitalKeyboard.Designer.cs">
+      <DependentUpon>DigitalKeyboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageDisplay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MessageDisplay.Designer.cs">
+      <DependentUpon>MessageDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ApplicationRegistration.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ApplicationRegistration.Designer.cs">
+      <DependentUpon>ApplicationRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeviceConfiguration.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DeviceConfiguration.Designer.cs">
+      <DependentUpon>DeviceConfiguration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IOSignalDiagnosis.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IOSignalDiagnosis.designer.cs">
+      <DependentUpon>IOSignalDiagnosis.cs</DependentUpon>
+    </Compile>
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ApplicationRegistrationWindow.resx">
+      <DependentUpon>ApplicationRegistrationWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BackupBrandsControl.resx">
+      <DependentUpon>BackupBrandsControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BrandControl.resx">
+      <DependentUpon>BrandControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CigaretteSort.resx">
+      <DependentUpon>CigaretteSort.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CigaretteSortWindow.resx">
+      <DependentUpon>CigaretteSortWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomMeter.resx">
+      <DependentUpon>CustomMeter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DateTimePanel.resx">
+      <DependentUpon>DateTimePanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DateTimePanelWindow.resx">
+      <DependentUpon>DateTimePanelWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditTools.resx">
+      <DependentUpon>EditTools.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditToolsWindow.resx">
+      <DependentUpon>EditToolsWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FaultMessage.resx">
+      <DependentUpon>FaultMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FaultMessageOption.resx">
+      <DependentUpon>FaultMessageOption.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FaultMessageOptionWindow.resx">
+      <DependentUpon>FaultMessageOptionWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FaultMessageWindow.resx">
+      <DependentUpon>FaultMessageWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GlobalWindows.resx">
+      <DependentUpon>GlobalWindows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImageConfigurationControl.resx">
+      <DependentUpon>ImageConfigurationControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomButton.resx">
+      <DependentUpon>CustomButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomList.resx">
+      <DependentUpon>CustomList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomListHeader.resx">
+      <DependentUpon>CustomListHeader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomListItem.resx">
+      <DependentUpon>CustomListItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeviceConfigurationWindow.resx">
+      <DependentUpon>DeviceConfigurationWindow.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeviceControl.resx">
+      <DependentUpon>DeviceControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DigitalKeyboardWindow.resx">
+      <DependentUpon>DigitalKeyboardWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImageDisplay.resx">
+      <DependentUpon>ImageDisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IOSignalDiagnosisWindow.resx">
+      <DependentUpon>IOSignalDiagnosisWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LiveControl.resx">
+      <DependentUpon>LiveControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageDisplayWindow.resx">
+      <DependentUpon>MessageDisplayWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomProgressBar.resx">
+      <DependentUpon>CustomProgressBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NetDiagnose.resx">
+      <DependentUpon>NetDiagnose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NetDiagnoseWindows.resx">
+      <DependentUpon>NetDiagnoseWindows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewTool.resx">
+      <DependentUpon>NewTool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewToolWindow.resx">
+      <DependentUpon>NewToolWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParameterSettings.resx">
+      <DependentUpon>ParameterSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParameterSettingsPanel.resx">
+      <DependentUpon>ParameterSettingsPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParameterSettingsWindow.resx">
+      <DependentUpon>ParameterSettingsWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QualityCheckControl.resx">
+      <DependentUpon>QualityCheckControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RejectsControl.resx">
+      <DependentUpon>RejectsControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RejectsSlot.resx">
+      <DependentUpon>RejectsSlot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RestoreBrandsControl.resx">
+      <DependentUpon>RestoreBrandsControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SensorSelect.resx">
+      <DependentUpon>SensorSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SensorSelectWindow.resx">
+      <DependentUpon>SensorSelectWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShiftConfiguration.resx">
+      <DependentUpon>ShiftConfiguration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShiftConfigurationWindow.resx">
+      <DependentUpon>ShiftConfigurationWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SizeAdjustedPanel.resx">
+      <DependentUpon>SizeAdjustedPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadControl.resx">
+      <DependentUpon>LoadControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StandardKeyboard.resx">
+      <DependentUpon>StandardKeyboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StandardKeyboardWindow.resx">
+      <DependentUpon>StandardKeyboardWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StatisticsControl.resx">
+      <DependentUpon>StatisticsControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StatisticsRecord.resx">
+      <DependentUpon>StatisticsRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StatisticsRecordWindow.resx">
+      <DependentUpon>StatisticsRecordWindow.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StatusBar.resx">
+      <DependentUpon>StatusBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemControl.resx">
+      <DependentUpon>SystemControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TitleBarControl.resx">
+      <DependentUpon>TitleBarControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tolerances.resx">
+      <DependentUpon>Tolerances.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TolerancesControl.resx">
+      <DependentUpon>TolerancesControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkControl.resx">
+      <DependentUpon>WorkControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DigitalKeyboard.resx">
+      <DependentUpon>DigitalKeyboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageDisplay.resx">
+      <DependentUpon>MessageDisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApplicationRegistration.resx">
+      <DependentUpon>ApplicationRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeviceConfiguration.resx">
+      <DependentUpon>DeviceConfiguration.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IOSignalDiagnosis.resx">
+      <DependentUpon>IOSignalDiagnosis.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\timg.png" />
+    <None Include="Resources\Transport.png" />
+    <None Include="Resources\TolerancesSettingsBackground.png" />
+    <None Include="Resources\TolerancesMeanValue.png" />
+    <None Include="Resources\TitleBarBackground.png" />
+    <None Include="Resources\Zoom.png" />
+    <None Include="Resources\CustomListItem_BackupBrandFolder.png" />
+    <None Include="Resources\Button.png" />
+    <None Include="Resources\Close.png" />
+    <None Include="Resources\Down.png" />
+    <None Include="Resources\CreateFolder.png" />
+    <None Include="Resources\Delete.png" />
+    <None Include="Resources\BackUp.png" />
+    <None Include="Resources\BackupBrands.png" />
+    <None Include="Resources\DeleteBrand.png" />
+    <None Include="Resources\CopyBrand.png" />
+    <None Include="Resources\AlignDateTime.png" />
+    <None Include="Resources\ConfigImage.png" />
+    <None Include="Resources\ConfigDevice.png" />
+    <None Include="Resources\CameraBackground.png" />
+    <None Include="Resources\Cancel.png" />
+    <None Include="Resources\Device.png" />
+    <None Include="Resources\Company_2.png" />
+    <None Include="Resources\Company_1.png" />
+    <None Include="Resources\ClearAllImages.png" />
+    <None Include="Resources\BackupSingleImage.png" />
+    <None Include="Resources\BackupAllImages.png" />
+    <None Include="Resources\Button_1.png" />
+    <None Include="Resources\LocalDisk.png" />
+    <None Include="Resources\SelectAll.png" />
+    <None Include="Resources\Folder.png" />
+    <None Include="Resources\Restore.png" />
+    <None Include="Resources\SaveCurrentBrand.png" />
+    <None Include="Resources\RestoreBrands.png" />
+    <None Include="Resources\RenameBrand.png" />
+    <None Include="Resources\LoadBrand.png" />
+    <None Include="Resources\RunStop.png" />
+    <None Include="Resources\ResetDevice.png" />
+    <None Include="Resources\RefreshList.png" />
+    <None Include="Resources\ListHeader.png" />
+    <None Include="Resources\MessageLamp.png" />
+    <None Include="Resources\StatusBar.png" />
+    <None Include="Resources\OK.png" />
+    <None Include="Resources\Tolerance.png" />
+    <None Include="Resources\System.png" />
+    <None Include="Resources\Reject.png" />
+    <None Include="Resources\Quality.png" />
+    <None Include="Resources\Forward.png" />
+    <None Include="Resources\Learn.png" />
+    <None Include="Resources\KeyboardBackground.png" />
+    <None Include="Resources\Port.png" />
+    <None Include="Resources\IPAddress.png" />
+    <None Include="Resources\NetCheck.png" />
+    <None Include="Resources\Switch.png" />
+    <None Include="Resources\Lamp.png" />
+    <None Include="Resources\RightTop.png" />
+    <None Include="Resources\RightBottom.png" />
+    <None Include="Resources\LeftTop.png" />
+    <None Include="Resources\LeftBottom.png" />
+    <None Include="Resources\Move.png" />
+    <None Include="Resources\LoadSample.png" />
+    <None Include="Resources\LoadReject.png" />
+    <None Include="Resources\TitleBar.png" />
+    <None Include="Resources\FocusCalibration.png" />
+    <None Include="Resources\StatusBarBackground.png" />
+    <None Include="Resources\USBDevice.png" />
+    <None Include="Resources\Up.png" />
+    <None Include="Resources\Update.png" />
+    <None Include="Resources\ViewToolGraphics.png" />
+    <None Include="Resources\WhiteBalance.png" />
+    <None Include="Resources\Camera_Background.png" />
+    <None Include="Resources\40_40Down.png" />
+    <None Include="Resources\40_40Up.png" />
+    <None Include="Resources\60_40Down.png" />
+    <None Include="Resources\60_40Up.png" />
+    <None Include="Resources\115_40Down.png" />
+    <None Include="Resources\115_40Up.png" />
+    <None Include="Resources\710_406Up.png" />
+    <None Include="Resources\adjusting.png" />
+    <None Include="Resources\Connect .png" />
+    <None Include="Resources\Camera_1.png" />
+    <None Include="Resources\Controller_1.png" />
+    <Content Include="Resources\CustomListItem_Folder.png" />
+    <Content Include="Resources\CustomListItem_Marked.png" />
+    <Content Include="Resources\CustomListItem_OpenFolder.png" />
+    <Content Include="Resources\CustomListItem_SystemFile.png" />
+    <Content Include="Resources\CustomListItem_UnknownFile.png" />
+    <Content Include="Resources\CustomListItem_Unmarked.png" />
+    <None Include="Resources\Inspect.png" />
+    <None Include="Resources\Parameter.png" />
+    <None Include="Resources\RegionBackground.png" />
+    <None Include="Resources\RegionSelection.png" />
+    <None Include="Resources\Interface.jpg" />
+    <None Include="Resources\DisConnect .png" />
+    <Content Include="Resources\RejectsSlot_Background.png" />
+    <Content Include="Resources\RejectsSlot_BackgroundCurrent.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

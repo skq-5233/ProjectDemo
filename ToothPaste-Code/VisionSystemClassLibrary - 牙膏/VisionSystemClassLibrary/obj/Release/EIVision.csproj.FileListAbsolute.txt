@@ -1,0 +1,60 @@
+C:\Documents and Settings\zhuwenxiang\桌面\EIVision\EIVision\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\zhuwenxiang\桌面\EIVision\EIVision\bin\Release\EIVision.dll
+C:\Documents and Settings\zhuwenxiang\桌面\EIVision\EIVision\bin\Release\EIVision.pdb
+C:\Documents and Settings\zhuwenxiang\桌面\EIVision\EIVision\obj\Release\EIVision.dll
+C:\Documents and Settings\zhuwenxiang\桌面\EIVision\EIVision\obj\Release\EIVision.pdb
+C:\Documents and Settings\jiangtao063\桌面\桌面\EIVision\EIVision\bin\Release\EIVision.dll
+C:\Documents and Settings\jiangtao063\桌面\桌面\EIVision\EIVision\bin\Release\EIVision.pdb
+C:\Documents and Settings\jiangtao063\桌面\桌面\EIVision\EIVision\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\jiangtao063\桌面\桌面\EIVision\EIVision\obj\Release\EIVision.dll
+C:\Documents and Settings\jiangtao063\桌面\桌面\EIVision\EIVision\obj\Release\EIVision.pdb
+E:\GDX6S\资料\EIVision\EIVision\bin\Release\EIVision.dll
+E:\GDX6S\资料\EIVision\EIVision\bin\Release\EIVision.pdb
+E:\GDX6S\资料\EIVision\EIVision\obj\Release\ResolveAssemblyReference.cache
+E:\GDX6S\资料\EIVision\EIVision\obj\Release\EIVision.dll
+E:\GDX6S\资料\EIVision\EIVision\obj\Release\EIVision.pdb
+E:\GDX6S\EIVision\EIVision\bin\Release\EIVision.dll
+E:\GDX6S\EIVision\EIVision\bin\Release\EIVision.pdb
+E:\GDX6S\EIVision\EIVision\obj\Release\ResolveAssemblyReference.cache
+E:\GDX6S\EIVision\EIVision\obj\Release\EIVision.dll
+E:\GDX6S\EIVision\EIVision\obj\Release\EIVision.pdb
+E:\Program Files\GDX6S\EIVision\EIVision\bin\Release\EIVision.dll
+E:\Program Files\GDX6S\EIVision\EIVision\bin\Release\EIVision.pdb
+E:\Program Files\GDX6S\EIVision\EIVision\obj\Release\ResolveAssemblyReference.cache
+E:\Program Files\GDX6S\EIVision\EIVision\obj\Release\EIVision.dll
+E:\Program Files\GDX6S\EIVision\EIVision\obj\Release\EIVision.pdb
+C:\Users\Administrator\Desktop\EIVision\EIVision\bin\Release\EIVision.dll
+C:\Users\Administrator\Desktop\EIVision\EIVision\bin\Release\EIVision.pdb
+C:\Users\Administrator\Desktop\EIVision\EIVision\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EIVision\EIVision\obj\Release\EIVision.dll
+C:\Users\Administrator\Desktop\EIVision\EIVision\obj\Release\EIVision.pdb
+D:\EIVision\EIVision\bin\Release\EIVision.dll
+D:\EIVision\EIVision\bin\Release\EIVision.pdb
+D:\EIVision\EIVision\obj\Release\ResolveAssemblyReference.cache
+D:\EIVision\EIVision\obj\Release\EIVision.dll
+D:\EIVision\EIVision\obj\Release\EIVision.pdb
+E:\2015.01.13\EIVision\EIVision\bin\Release\EIVision.dll
+E:\2015.01.13\EIVision\EIVision\bin\Release\EIVision.pdb
+E:\2015.01.13\EIVision\EIVision\obj\Release\ResolveAssemblyReference.cache
+E:\2015.01.13\EIVision\EIVision\obj\Release\EIVision.dll
+E:\2015.01.13\EIVision\EIVision\obj\Release\EIVision.pdb
+E:\Program Files\EIVision\EIVision\bin\Release\EIVision.dll
+E:\Program Files\EIVision\EIVision\bin\Release\EIVision.pdb
+E:\Program Files\EIVision\EIVision\obj\Release\ResolveAssemblyReference.cache
+E:\Program Files\EIVision\EIVision\obj\Release\EIVision.dll
+E:\Program Files\EIVision\EIVision\obj\Release\EIVision.pdb
+C:\Users\Administrator\Desktop\新建文件夹\EIVision\EIVision\bin\Release\EIVision.dll
+C:\Users\Administrator\Desktop\新建文件夹\EIVision\EIVision\bin\Release\EIVision.pdb
+C:\Users\Administrator\Desktop\新建文件夹\EIVision\EIVision\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\EIVision\EIVision\obj\Release\EIVision.dll
+C:\Users\Administrator\Desktop\新建文件夹\EIVision\EIVision\obj\Release\EIVision.pdb
+D:\GDX6S\Program Files\EIVision\EIVision\bin\Release\EIVision.dll
+D:\GDX6S\Program Files\EIVision\EIVision\bin\Release\EIVision.pdb
+D:\GDX6S\Program Files\EIVision\EIVision\obj\Release\ResolveAssemblyReference.cache
+D:\GDX6S\Program Files\EIVision\EIVision\obj\Release\EIVision.dll
+D:\GDX6S\Program Files\EIVision\EIVision\obj\Release\EIVision.pdb
+D:\FOCKE FX\Program Files\EIVision\EIVision\bin\Release\EIVision.dll
+D:\FOCKE FX\Program Files\EIVision\EIVision\bin\Release\EIVision.pdb
+D:\FOCKE FX\Program Files\EIVision\EIVision\obj\Release\ResolveAssemblyReference.cache
+D:\FOCKE FX\Program Files\EIVision\EIVision\obj\Release\EIVision.dll
+D:\FOCKE FX\Program Files\EIVision\EIVision\obj\Release\EIVision.pdb

@@ -1,0 +1,112 @@
+E:\Jhg\7.I-C\SourceCode\VisionSystemUserInterface_20181123\VisionSystemUserInterface\bin\Release\VisionSystemUserInterface.exe.config
+E:\Jhg\7.I-C\SourceCode\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.exe
+E:\Jhg\7.I-C\SourceCode\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.pdb
+E:\Jhg\7.I-C\SourceCode\VisionSystemUserInterface_20181123\VisionSystemUserInterface\bin\Release\VisionSystemUserInterface.exe
+E:\Jhg\7.I-C\SourceCode\VisionSystemUserInterface_20181123\VisionSystemUserInterface\bin\Release\VisionSystemUserInterface.pdb
+E:\Jhg\7.I-C\SourceCode\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.BackupBrands.resources
+E:\Jhg\7.I-C\SourceCode\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.BrandManagement.resources
+E:\Jhg\7.I-C\SourceCode\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.DevicesSetup.resources
+E:\Jhg\7.I-C\SourceCode\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Startup.resources
+E:\Jhg\7.I-C\SourceCode\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.StatisticsView.resources
+E:\Jhg\7.I-C\SourceCode\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Work.resources
+E:\Jhg\7.I-C\SourceCode\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.SystemConfiguration.resources
+E:\Jhg\7.I-C\SourceCode\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.ImageConfiguration.resources
+E:\Jhg\7.I-C\SourceCode\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.LiveView.resources
+E:\Jhg\7.I-C\SourceCode\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Load.resources
+E:\Jhg\7.I-C\SourceCode\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Properties.Resources.resources
+E:\Jhg\7.I-C\SourceCode\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.QualityCheck.resources
+E:\Jhg\7.I-C\SourceCode\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.RejectsView.resources
+E:\Jhg\7.I-C\SourceCode\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.RestoreBrands.resources
+E:\Jhg\7.I-C\SourceCode\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Template.resources
+E:\Jhg\7.I-C\SourceCode\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.TolerancesSettings.resources
+E:\Jhg\7.I-C\SourceCode\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.csproj.GenerateResource.Cache
+E:\Jhg\7.I-C\SourceCode\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.csprojResolveAssemblyReference.cache
+E:\Jhg\7.I-C\s_c\VisionSystemUserInterface_20181123\VisionSystemUserInterface\bin\Release\VisionSystemUserInterface.exe.config
+E:\Jhg\7.I-C\s_c\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.exe
+E:\Jhg\7.I-C\s_c\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.pdb
+E:\Jhg\7.I-C\s_c\VisionSystemUserInterface_20181123\VisionSystemUserInterface\bin\Release\VisionSystemUserInterface.exe
+E:\Jhg\7.I-C\s_c\VisionSystemUserInterface_20181123\VisionSystemUserInterface\bin\Release\VisionSystemUserInterface.pdb
+E:\Jhg\7.I-C\s_c\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.BackupBrands.resources
+E:\Jhg\7.I-C\s_c\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.BrandManagement.resources
+E:\Jhg\7.I-C\s_c\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.DevicesSetup.resources
+E:\Jhg\7.I-C\s_c\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Startup.resources
+E:\Jhg\7.I-C\s_c\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.StatisticsView.resources
+E:\Jhg\7.I-C\s_c\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Work.resources
+E:\Jhg\7.I-C\s_c\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.SystemConfiguration.resources
+E:\Jhg\7.I-C\s_c\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.ImageConfiguration.resources
+E:\Jhg\7.I-C\s_c\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.LiveView.resources
+E:\Jhg\7.I-C\s_c\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Load.resources
+E:\Jhg\7.I-C\s_c\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Properties.Resources.resources
+E:\Jhg\7.I-C\s_c\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.QualityCheck.resources
+E:\Jhg\7.I-C\s_c\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.RejectsView.resources
+E:\Jhg\7.I-C\s_c\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.RestoreBrands.resources
+E:\Jhg\7.I-C\s_c\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Template.resources
+E:\Jhg\7.I-C\s_c\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.TolerancesSettings.resources
+E:\Jhg\7.I-C\s_c\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.csproj.GenerateResource.Cache
+E:\Jhg\7.I-C\s_c\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.csprojResolveAssemblyReference.cache
+D:\skq\vs code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\bin\Release\VisionSystemUserInterface.exe.config
+D:\skq\vs code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.exe
+D:\skq\vs code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.pdb
+D:\skq\vs code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.csprojResolveAssemblyReference.cache
+D:\skq\vs code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.BackupBrands.resources
+D:\skq\vs code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.BrandManagement.resources
+D:\skq\vs code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.DevicesSetup.resources
+D:\skq\vs code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Startup.resources
+D:\skq\vs code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.StatisticsView.resources
+D:\skq\vs code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Work.resources
+D:\skq\vs code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.SystemConfiguration.resources
+D:\skq\vs code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.ImageConfiguration.resources
+D:\skq\vs code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.LiveView.resources
+D:\skq\vs code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Load.resources
+D:\skq\vs code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Properties.Resources.resources
+D:\skq\vs code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.QualityCheck.resources
+D:\skq\vs code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.RejectsView.resources
+D:\skq\vs code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.RestoreBrands.resources
+D:\skq\vs code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Template.resources
+D:\skq\vs code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.TolerancesSettings.resources
+D:\skq\vs code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.csproj.GenerateResource.Cache
+D:\software\VS-Code\Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\bin\Release\VisionSystemUserInterface.exe.config
+D:\software\VS-Code\Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.exe
+D:\software\VS-Code\Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.pdb
+D:\software\VS-Code\Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.csprojResolveAssemblyReference.cache
+D:\software\VS-Code\Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.BackupBrands.resources
+D:\software\VS-Code\Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.BrandManagement.resources
+D:\software\VS-Code\Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.DevicesSetup.resources
+D:\software\VS-Code\Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Startup.resources
+D:\software\VS-Code\Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.StatisticsView.resources
+D:\software\VS-Code\Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Work.resources
+D:\software\VS-Code\Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.SystemConfiguration.resources
+D:\software\VS-Code\Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.ImageConfiguration.resources
+D:\software\VS-Code\Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.LiveView.resources
+D:\software\VS-Code\Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Load.resources
+D:\software\VS-Code\Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Properties.Resources.resources
+D:\software\VS-Code\Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.QualityCheck.resources
+D:\software\VS-Code\Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.RejectsView.resources
+D:\software\VS-Code\Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.RestoreBrands.resources
+D:\software\VS-Code\Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Template.resources
+D:\software\VS-Code\Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.TolerancesSettings.resources
+D:\software\VS-Code\Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.csproj.GenerateResource.Cache
+D:\software\VS-Code\Project_Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\bin\Release\VisionSystemUserInterface.exe.config
+D:\software\VS-Code\Project_Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.exe
+D:\software\VS-Code\Project_Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.pdb
+D:\SKQ\VS-Code\Project_Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\bin\Release\VisionSystemUserInterface.exe.config
+D:\SKQ\VS-Code\Project_Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.exe
+D:\SKQ\VS-Code\Project_Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.pdb
+D:\SKQ\VS-Code\Project_Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.csprojResolveAssemblyReference.cache
+D:\SKQ\VS-Code\Project_Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.BackupBrands.resources
+D:\SKQ\VS-Code\Project_Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.BrandManagement.resources
+D:\SKQ\VS-Code\Project_Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.DevicesSetup.resources
+D:\SKQ\VS-Code\Project_Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Startup.resources
+D:\SKQ\VS-Code\Project_Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.StatisticsView.resources
+D:\SKQ\VS-Code\Project_Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Work.resources
+D:\SKQ\VS-Code\Project_Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.SystemConfiguration.resources
+D:\SKQ\VS-Code\Project_Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.ImageConfiguration.resources
+D:\SKQ\VS-Code\Project_Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.LiveView.resources
+D:\SKQ\VS-Code\Project_Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Load.resources
+D:\SKQ\VS-Code\Project_Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Properties.Resources.resources
+D:\SKQ\VS-Code\Project_Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.QualityCheck.resources
+D:\SKQ\VS-Code\Project_Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.RejectsView.resources
+D:\SKQ\VS-Code\Project_Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.RestoreBrands.resources
+D:\SKQ\VS-Code\Project_Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.Template.resources
+D:\SKQ\VS-Code\Project_Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.TolerancesSettings.resources
+D:\SKQ\VS-Code\Project_Code\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x86\Release\VisionSystemUserInterface.csproj.GenerateResource.Cache

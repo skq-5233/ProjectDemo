@@ -1,0 +1,92 @@
+E:\GDX6S\X6SProductionCheck\X6SProductionCheck\bin\Debug\X6SProductionCheck.exe
+E:\GDX6S\X6SProductionCheck\X6SProductionCheck\bin\Debug\X6SProductionCheck.pdb
+E:\GDX6S\X6SProductionCheck\X6SProductionCheck\bin\Debug\EIVision.dll
+E:\GDX6S\X6SProductionCheck\X6SProductionCheck\bin\Debug\Emgu.CV.dll
+E:\GDX6S\X6SProductionCheck\X6SProductionCheck\bin\Debug\Emgu.CV.UI.dll
+E:\GDX6S\X6SProductionCheck\X6SProductionCheck\bin\Debug\Emgu.Util.dll
+E:\GDX6S\X6SProductionCheck\X6SProductionCheck\bin\Debug\X6SControlLibrary.dll
+E:\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.BrandManagement.resources
+E:\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.DevicesSetup.resources
+E:\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.LiveView.resources
+E:\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.Load.resources
+E:\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.Properties.Resources.resources
+E:\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.QualityCheck.resources
+E:\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.RejectsView.resources
+E:\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.Template.resources
+E:\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.TolerancesSettings.resources
+E:\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.Work.resources
+E:\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.exe
+E:\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.pdb
+E:\Program Files\GDX6S\X6SProductionCheck\X6SProductionCheck\bin\Debug\X6SProductionCheck.exe
+E:\Program Files\GDX6S\X6SProductionCheck\X6SProductionCheck\bin\Debug\X6SProductionCheck.pdb
+E:\Program Files\GDX6S\X6SProductionCheck\X6SProductionCheck\bin\Debug\EIVision.dll
+E:\Program Files\GDX6S\X6SProductionCheck\X6SProductionCheck\bin\Debug\Emgu.CV.dll
+E:\Program Files\GDX6S\X6SProductionCheck\X6SProductionCheck\bin\Debug\Emgu.CV.UI.dll
+E:\Program Files\GDX6S\X6SProductionCheck\X6SProductionCheck\bin\Debug\Emgu.Util.dll
+E:\Program Files\GDX6S\X6SProductionCheck\X6SProductionCheck\bin\Debug\X6SControlLibrary.dll
+E:\Program Files\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Program Files\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.BrandManagement.resources
+E:\Program Files\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.DevicesSetup.resources
+E:\Program Files\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.LiveView.resources
+E:\Program Files\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.Load.resources
+E:\Program Files\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.Properties.Resources.resources
+E:\Program Files\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.QualityCheck.resources
+E:\Program Files\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.RejectsView.resources
+E:\Program Files\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.Template.resources
+E:\Program Files\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.TolerancesSettings.resources
+E:\Program Files\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.Work.resources
+E:\Program Files\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Program Files\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Program Files\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.exe
+E:\Program Files\GDX6S\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.pdb
+E:\2015.01.13\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.exe
+E:\2015.01.13\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.pdb
+E:\2015.01.13\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\2015.01.13\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.BrandManagement.resources
+E:\2015.01.13\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.DevicesSetup.resources
+E:\2015.01.13\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.LiveView.resources
+E:\2015.01.13\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.Load.resources
+E:\2015.01.13\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.Properties.Resources.resources
+E:\2015.01.13\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.QualityCheck.resources
+E:\2015.01.13\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.RejectsView.resources
+E:\2015.01.13\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.Template.resources
+E:\2015.01.13\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.TolerancesSettings.resources
+E:\2015.01.13\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.Work.resources
+E:\2015.01.13\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\2015.01.13\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\2015.01.13\X6SProductionCheck\X6SProductionCheck\bin\Debug\X6SProductionCheck.exe
+E:\2015.01.13\X6SProductionCheck\X6SProductionCheck\bin\Debug\X6SProductionCheck.pdb
+E:\2015.01.13\X6SProductionCheck\X6SProductionCheck\bin\Debug\EIEthernet.dll
+E:\2015.01.13\X6SProductionCheck\X6SProductionCheck\bin\Debug\EIVision.dll
+E:\2015.01.13\X6SProductionCheck\X6SProductionCheck\bin\Debug\Emgu.CV.dll
+E:\2015.01.13\X6SProductionCheck\X6SProductionCheck\bin\Debug\Emgu.CV.UI.dll
+E:\2015.01.13\X6SProductionCheck\X6SProductionCheck\bin\Debug\Emgu.Util.dll
+E:\2015.01.13\X6SProductionCheck\X6SProductionCheck\bin\Debug\X6SControlLibrary.dll
+E:\Program Files\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.exe
+E:\Program Files\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.pdb
+D:\GDX6S\Program Files\X6SProductionCheck\X6SProductionCheck\bin\Debug\X6SProductionCheck.exe
+D:\GDX6S\Program Files\X6SProductionCheck\X6SProductionCheck\bin\Debug\X6SProductionCheck.pdb
+D:\GDX6S\Program Files\X6SProductionCheck\X6SProductionCheck\bin\Debug\EIEthernet.dll
+D:\GDX6S\Program Files\X6SProductionCheck\X6SProductionCheck\bin\Debug\EIVision.dll
+D:\GDX6S\Program Files\X6SProductionCheck\X6SProductionCheck\bin\Debug\Emgu.CV.dll
+D:\GDX6S\Program Files\X6SProductionCheck\X6SProductionCheck\bin\Debug\Emgu.CV.UI.dll
+D:\GDX6S\Program Files\X6SProductionCheck\X6SProductionCheck\bin\Debug\Emgu.Util.dll
+D:\GDX6S\Program Files\X6SProductionCheck\X6SProductionCheck\bin\Debug\X6SControlLibrary.dll
+D:\GDX6S\Program Files\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GDX6S\Program Files\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.BrandManagement.resources
+D:\GDX6S\Program Files\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.DevicesSetup.resources
+D:\GDX6S\Program Files\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.LiveView.resources
+D:\GDX6S\Program Files\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.Load.resources
+D:\GDX6S\Program Files\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.Properties.Resources.resources
+D:\GDX6S\Program Files\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.QualityCheck.resources
+D:\GDX6S\Program Files\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.RejectsView.resources
+D:\GDX6S\Program Files\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.Template.resources
+D:\GDX6S\Program Files\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.TolerancesSettings.resources
+D:\GDX6S\Program Files\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.Work.resources
+D:\GDX6S\Program Files\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\GDX6S\Program Files\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\GDX6S\Program Files\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.exe
+D:\GDX6S\Program Files\X6SProductionCheck\X6SProductionCheck\obj\x86\Debug\X6SProductionCheck.pdb

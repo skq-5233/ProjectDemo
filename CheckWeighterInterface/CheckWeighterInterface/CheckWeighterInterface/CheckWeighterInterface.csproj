@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CD7ADB9C-0F5C-443F-9C94-3A3B5C00B289}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CheckWeighterInterface</RootNamespace>
+    <AssemblyName>CheckWeighterInterface</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v20.1.Core, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.CodeParser.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.Desktop.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v20.1.Core, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v20.1.Core, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v20.1.Core, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v20.1.UI, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v20.1.UI, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v20.1.Wizard, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DTControl">
+      <HintPath>..\..\dll\DTControl.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib">
+      <HintPath>..\..\dll\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\dll\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI">
+      <HintPath>..\..\dll\NPOI.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OOXML">
+      <HintPath>..\..\dll\NPOI.OOXML.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OpenXml4Net">
+      <HintPath>..\..\dll\NPOI.OpenXml4Net.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OpenXmlFormats">
+      <HintPath>..\..\dll\NPOI.OpenXmlFormats.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="VisionSystemClassLibrary">
+      <HintPath>..\..\dll\VisionSystemClassLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="VisionSystemCommunicationLibrary">
+      <HintPath>..\..\dll\VisionSystemCommunicationLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="VisionSystemControlLibrary">
+      <HintPath>..\..\dll\VisionSystemControlLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="VisionSystemUserInterface_ControlLibrary">
+      <HintPath>..\..\dll\VisionSystemUserInterface_ControlLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CommonControl\ConfirmationBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CommonControl\ConfirmationBox.designer.cs">
+      <DependentUpon>ConfirmationBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControl\FormStandardKeyboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonControl\FormStandardKeyboard.designer.cs">
+      <DependentUpon>FormStandardKeyboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControl\InformationBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CommonControl\InformationBox.designer.cs">
+      <DependentUpon>InformationBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonControl\NumberKeyboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CommonControl\NumberKeyboard.designer.cs">
+      <DependentUpon>NumberKeyboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataAnalysis\DataAnalysis.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DataAnalysis\DataAnalysis.Designer.cs">
+      <DependentUpon>DataAnalysis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataAnalysis\FrequencyDomainAnalysis.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DataAnalysis\FrequencyDomainAnalysis.Designer.cs">
+      <DependentUpon>FrequencyDomainAnalysis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataAnalysis\TimeDomainAnalysis.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DataAnalysis\TimeDomainAnalysis.Designer.cs">
+      <DependentUpon>TimeDomainAnalysis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExcelExport\ExcelExport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ExcelExport\ExcelExport.Designer.cs">
+      <DependentUpon>ExcelExport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FilteringAlgorithm.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MySQL\MySQLHelper.cs" />
+    <Compile Include="ParameterConfig\AlgorithmConfig.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ParameterConfig\AlgorithmConfig.Designer.cs">
+      <DependentUpon>AlgorithmConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ParameterConfig\BenchmarkConfig.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ParameterConfig\BenchmarkConfig.Designer.cs">
+      <DependentUpon>BenchmarkConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ParameterConfig\ParameterConfig.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ParameterConfig\ParameterConfig.Designer.cs">
+      <DependentUpon>ParameterConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StatusMonitor\StatusMonitor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StatusMonitor\StatusMonitor.Designer.cs">
+      <DependentUpon>StatusMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManagement\CalibrationCorrection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SystemManagement\CalibrationCorrection.Designer.cs">
+      <DependentUpon>CalibrationCorrection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManagement\BrandInfoBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SystemManagement\BrandInfoBox.Designer.cs">
+      <DependentUpon>BrandInfoBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManagement\BrandManagement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SystemManagement\BrandManagement.Designer.cs">
+      <DependentUpon>BrandManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManagement\SystemConfig.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SystemManagement\SystemConfig.Designer.cs">
+      <DependentUpon>SystemConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemManagement\SystemManagement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SystemManagement\SystemManagement.Designer.cs">
+      <DependentUpon>SystemManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemTest\RealTimeCurve.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SystemTest\RealTimeCurve.Designer.cs">
+      <DependentUpon>RealTimeCurve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemTest\SignalTest.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SystemTest\SignalTest.Designer.cs">
+      <DependentUpon>SignalTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemTest\SystemTest.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SystemTest\SystemTest.Designer.cs">
+      <DependentUpon>SystemTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="test\test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="test\test.Designer.cs">
+      <DependentUpon>test.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CommonControl\ConfirmationBox.resx">
+      <DependentUpon>ConfirmationBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControl\FormStandardKeyboard.resx">
+      <DependentUpon>FormStandardKeyboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControl\InformationBox.resx">
+      <DependentUpon>InformationBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonControl\NumberKeyboard.resx">
+      <DependentUpon>NumberKeyboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataAnalysis\DataAnalysis.resx">
+      <DependentUpon>DataAnalysis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataAnalysis\FrequencyDomainAnalysis.resx">
+      <DependentUpon>FrequencyDomainAnalysis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataAnalysis\TimeDomainAnalysis.resx">
+      <DependentUpon>TimeDomainAnalysis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExcelExport\ExcelExport.resx">
+      <DependentUpon>ExcelExport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParameterConfig\AlgorithmConfig.resx">
+      <DependentUpon>AlgorithmConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParameterConfig\BenchmarkConfig.resx">
+      <DependentUpon>BenchmarkConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParameterConfig\ParameterConfig.resx">
+      <DependentUpon>ParameterConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="StatusMonitor\StatusMonitor.resx">
+      <DependentUpon>StatusMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManagement\CalibrationCorrection.resx">
+      <DependentUpon>CalibrationCorrection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManagement\BrandInfoBox.resx">
+      <DependentUpon>BrandInfoBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManagement\BrandManagement.resx">
+      <DependentUpon>BrandManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManagement\SystemConfig.resx">
+      <DependentUpon>SystemConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemManagement\SystemManagement.resx">
+      <DependentUpon>SystemManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemTest\RealTimeCurve.resx">
+      <DependentUpon>RealTimeCurve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemTest\SignalTest.resx">
+      <DependentUpon>SignalTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemTest\SystemTest.resx">
+      <DependentUpon>SystemTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="test\test.resx">
+      <DependentUpon>test.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

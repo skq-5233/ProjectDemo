@@ -1,0 +1,267 @@
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\bin\Release\X6SControlLibrary.dll
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\bin\Release\X6SControlLibrary.pdb
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ProgressBar.resources
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Properties.Resources.resources
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.dll
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.pdb
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.QualityCheck.resources
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Interval.resources
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Tools.resources
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ToolSelection.resources
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.StatusBar.resources
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.MessageBox.resources
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Live.resources
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ImageShow.resources
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.BrandManagement.resources
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.KeyBoard.resources
+C:\Documents and Settings\zhuwenxiang.EI41\桌面\X6SControlLibrary\X6SControlLibrary\bin\Release\X6SControlLibrary.dll
+C:\Documents and Settings\zhuwenxiang.EI41\桌面\X6SControlLibrary\X6SControlLibrary\bin\Release\X6SControlLibrary.pdb
+C:\Documents and Settings\zhuwenxiang.EI41\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\zhuwenxiang.EI41\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.BrandManagement.resources
+C:\Documents and Settings\zhuwenxiang.EI41\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ImageShow.resources
+C:\Documents and Settings\zhuwenxiang.EI41\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Interval.resources
+C:\Documents and Settings\zhuwenxiang.EI41\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.KeyBoard.resources
+C:\Documents and Settings\zhuwenxiang.EI41\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Live.resources
+C:\Documents and Settings\zhuwenxiang.EI41\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.MessageBox.resources
+C:\Documents and Settings\zhuwenxiang.EI41\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ProgressBar.resources
+C:\Documents and Settings\zhuwenxiang.EI41\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Properties.Resources.resources
+C:\Documents and Settings\zhuwenxiang.EI41\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.QualityCheck.resources
+C:\Documents and Settings\zhuwenxiang.EI41\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.StatusBar.resources
+C:\Documents and Settings\zhuwenxiang.EI41\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Tools.resources
+C:\Documents and Settings\zhuwenxiang.EI41\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ToolSelection.resources
+C:\Documents and Settings\zhuwenxiang.EI41\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\zhuwenxiang.EI41\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\zhuwenxiang.EI41\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.dll
+C:\Documents and Settings\zhuwenxiang.EI41\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.pdb
+C:\Documents and Settings\zhuwenxiang.EI41\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Backup.resources
+C:\Documents and Settings\zhuwenxiang.EI41\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ConfigImage.resources
+C:\Documents and Settings\zhuwenxiang.EI41\桌面\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Restore.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Backup.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.BrandManagement.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ConfigImage.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ImageShow.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Interval.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.KeyBoard.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Live.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.MessageBox.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ProgressBar.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Properties.Resources.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.QualityCheck.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Restore.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.StatusBar.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Tools.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ToolSelection.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.pdb
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\bin\Release\X6SControlLibrary.dll
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\bin\Release\X6SControlLibrary.pdb
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.dll
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.BackupBrandsControl.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.BrandControl.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ControlNetClient.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ControlNetServer.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CustomList.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CustomListBoxItem.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CustomListHeader.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CustomListItem.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.DeviceControl.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.NetClientDevice.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.RejectsControl.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.RejectsSlot.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.RestoreBrandsControl.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Tolerances.resources
+C:\Documents and Settings\jiangtao063\桌面\桌面\X6SControlLibrary\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.TolerancesControl.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\bin\Release\X6SControlLibrary.dll
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\bin\Release\X6SControlLibrary.pdb
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\ResolveAssemblyReference.cache
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.BackupBrandsControl.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.BrandControl.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CameraDisplay.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ControlNetClient.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ControlNetServer.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CustomList.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CustomListBoxItem.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CustomListHeader.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CustomListItem.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.DeviceControl.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ImageShow.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Interval.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.KeyBoard.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.LiveControl.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.MessageBox.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.NetClientDevice.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ProgressBar.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Properties.Resources.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.QualityCheckControl.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.RejectsControl.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.RejectsSlot.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.RestoreBrandsControl.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.StartupControl.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.StatusBar.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.StatusBarSlot.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.TitleBarControl.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Tolerances.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.TolerancesControl.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Tools.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ToolSelection.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.WorkControl.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\GenerateResource.read.1.tlog
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\GenerateResource.write.1.tlog
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.dll
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.pdb
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\bin\Release\X6SControlLibrary.dll
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\bin\Release\X6SControlLibrary.pdb
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\ResolveAssemblyReference.cache
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.BackupBrandsControl.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.BrandControl.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CameraDisplay.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ConfigDevice.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ControlNetClient.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ControlNetServer.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CustomList.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CustomListBoxItem.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CustomListHeader.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CustomListItem.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.DeviceControl.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ImageShow.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Interval.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.KeyBoard.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.LiveControl.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.MessageBox.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.NetClientDevice.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ProgressBar.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Properties.Resources.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.QualityCheckControl.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.RejectsControl.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.RejectsSlot.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.RestoreBrandsControl.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.StartupControl.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.StatusBar.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.StatusBarSlot.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.TitleBarControl.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Tolerances.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.TolerancesControl.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Tools.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ToolSelection.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.WorkControl.resources
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\GenerateResource.read.1.tlog
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\GenerateResource.write.1.tlog
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.dll
+E:\Program Files\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.pdb
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\bin\Release\X6SControlLibrary.dll
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\bin\Release\X6SControlLibrary.pdb
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\ResolveAssemblyReference.cache
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.BackupBrandsControl.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.BrandControl.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CameraDisplay.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ConfigDevice.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CustomList.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CustomListHeader.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CustomListItem.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.DeviceControl.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ImageShow.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Interval.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.KeyBoard.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.LiveControl.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.MessageBox.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ProgressBar.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Properties.Resources.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.QualityCheckControl.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.RejectsControl.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.RejectsSlot.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.RestoreBrandsControl.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.StartupControl.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.StatusBar.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.StatusBarSlot.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.TitleBarControl.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Tolerances.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.TolerancesControl.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Tools.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ToolSelection.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.WorkControl.resources
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\GenerateResource.read.1.tlog
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\GenerateResource.write.1.tlog
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.dll
+E:\2015.01.13\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.pdb
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.BackupBrandsControl.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.BrandControl.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CameraDisplay.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ConfigDevice.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CustomList.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CustomListHeader.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CustomListItem.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.DeviceControl.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ImageShow.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Interval.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.KeyBoard.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.LiveControl.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.MessageBox.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ProgressBar.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Properties.Resources.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.QualityCheckControl.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.RejectsControl.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.RejectsSlot.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.RestoreBrandsControl.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.StartupControl.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.StatusBar.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.StatusBarSlot.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.TitleBarControl.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Tolerances.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.TolerancesControl.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Tools.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ToolSelection.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.WorkControl.resources
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.dll
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\bin\Release\X6SControlLibrary.dll
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\bin\Release\X6SControlLibrary.pdb
+C:\Users\Administrator\Desktop\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.pdb
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.BackupBrandsControl.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.BrandControl.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CameraDisplay.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ConfigDevice.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ConfigImage.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ControlPanel.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CustomButton.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CustomLabel.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CustomList.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CustomListHeader.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.CustomListItem.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.DeviceControl.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ImageShow.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Interval.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.IOTest.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.KeyBoard.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.LiveControl.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.MessageBox.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ProgressBar.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Properties.Resources.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.QualityCheckControl.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.RegistrationWindow.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.RejectsControl.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.RejectsSlot.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.RestoreBrandsControl.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.StartupControl.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.StatusBar.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.StatusBarSlot.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.SystemControl.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.TitleBarControl.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Tolerances.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.TolerancesControl.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.Tools.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.ToolSelection.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.WorkControl.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\GenerateResource.read.1.tlog
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\GenerateResource.write.1.tlog
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\bin\Release\X6SControlLibrary.dll
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\bin\Release\X6SControlLibrary.pdb
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.dll
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Release\X6SControlLibrary.pdb

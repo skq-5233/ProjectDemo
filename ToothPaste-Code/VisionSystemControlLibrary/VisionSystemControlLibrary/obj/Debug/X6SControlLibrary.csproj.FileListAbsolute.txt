@@ -1,0 +1,101 @@
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\bin\Debug\X6SControlLibrary.dll
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\bin\Debug\X6SControlLibrary.pdb
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.ProgressBar.resources
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.Properties.Resources.resources
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.dll
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.pdb
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\bin\Debug\EIVision.dll
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\bin\Debug\Emgu.CV.dll
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\bin\Debug\Emgu.CV.UI.dll
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\bin\Debug\Emgu.Util.dll
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.Interval.resources
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.QualityCheck.resources
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.StatusBar.resources
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.Tools.resources
+C:\Documents and Settings\zhuwenxiang\桌面\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.ToolSelection.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\bin\Debug\X6SControlLibrary.dll
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\bin\Debug\X6SControlLibrary.pdb
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\bin\Debug\EIVision.dll
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\bin\Debug\Emgu.CV.dll
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\bin\Debug\Emgu.CV.UI.dll
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\bin\Debug\Emgu.Util.dll
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.BackupBrandsControl.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.BrandControl.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.CameraDisplay.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.ControlNetClient.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.ControlNetServer.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.CustomList.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.CustomListBoxItem.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.CustomListHeader.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.CustomListItem.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.DeviceControl.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.ImageShow.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.Interval.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.KeyBoard.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.LiveControl.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.MessageBox.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.NetClientDevice.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.ProgressBar.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.Properties.Resources.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.RejectsControl.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.RejectsSlot.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.RestoreBrandsControl.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.StartupControl.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.StatusBar.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.StatusBarSlot.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.TitleBarControl.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.Tolerances.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.TolerancesControl.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.Tools.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.ToolSelection.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.WorkControl.resources
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\GenerateResource.read.1.tlog
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\GenerateResource.write.1.tlog
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.dll
+E:\GDX6S\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.pdb
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\bin\Debug\X6SControlLibrary.dll
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\bin\Debug\X6SControlLibrary.pdb
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\bin\Debug\EIVision.dll
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\bin\Debug\Emgu.CV.dll
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\bin\Debug\Emgu.CV.UI.dll
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\bin\Debug\Emgu.Util.dll
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.BackupBrandsControl.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.BrandControl.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.CameraDisplay.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.ConfigDevice.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.ConfigImage.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.CustomButton.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.CustomList.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.CustomListHeader.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.CustomListItem.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.DeviceControl.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.ImageShow.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.Interval.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.IOTest.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.KeyBoard.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.LiveControl.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.MessageBox.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.ProgressBar.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.Properties.Resources.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.QualityCheckControl.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.RejectsControl.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.RejectsSlot.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.RestoreBrandsControl.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.StartupControl.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.StatusBar.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.StatusBarSlot.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.TitleBarControl.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.Tolerances.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.TolerancesControl.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.Tools.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.ToolSelection.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.WorkControl.resources
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\GenerateResource.read.1.tlog
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\GenerateResource.write.1.tlog
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.dll
+D:\GDX6S\Program Files\X6SControlLibrary\X6SControlLibrary\obj\Debug\X6SControlLibrary.pdb

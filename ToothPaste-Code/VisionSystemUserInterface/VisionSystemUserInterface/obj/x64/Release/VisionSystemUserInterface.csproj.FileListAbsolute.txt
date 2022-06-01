@@ -1,0 +1,142 @@
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface_20181123\VisionSystemUserInterface\bin\x64\Release\VisionSystemUserInterface.exe.config
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface_20181123\VisionSystemUserInterface\bin\x64\Release\VisionSystemUserInterface.exe
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface_20181123\VisionSystemUserInterface\bin\x64\Release\VisionSystemUserInterface.pdb
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.csprojResolveAssemblyReference.cache
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.BackupBrands.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.BrandManagement.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.DevicesSetup.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Startup.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.StatisticsView.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Work.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.SystemConfiguration.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.ImageConfiguration.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.LiveView.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Load.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Properties.Resources.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.QualityCheck.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.RestoreBrands.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Template.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.TolerancesSettings.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.csproj.GenerateResource.Cache
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.exe
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface_20181123\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.pdb
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\bin\x64\Release\VisionSystemUserInterface.exe.config
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.exe
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.pdb
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\bin\x64\Release\VisionSystemUserInterface.exe
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\bin\x64\Release\VisionSystemUserInterface.pdb
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\bin\x64\Release\Emgu.CV.Platform.NetStandard.dll
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\bin\x64\Release\Emgu.CV.Bitmap.dll
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.csprojResolveAssemblyReference.cache
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.BackupBrands.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.BrandManagement.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.DevicesSetup.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Startup.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.StatisticsView.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Work.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.SystemConfiguration.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.ImageConfiguration.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.LiveView.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Load.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Properties.Resources.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.QualityCheck.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.RestoreBrands.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Template.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.TolerancesSettings.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.csproj.GenerateResource.Cache
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface - 任意多边形\VisionSystemUserInterface\bin\x64\Release\VisionSystemUserInterface.exe.config
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface - 任意多边形\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.exe
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface - 任意多边形\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.pdb
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface - 任意多边形\VisionSystemUserInterface\bin\x64\Release\VisionSystemUserInterface.exe
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface - 任意多边形\VisionSystemUserInterface\bin\x64\Release\VisionSystemUserInterface.pdb
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface - 任意多边形\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.csprojResolveAssemblyReference.cache
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface - 任意多边形\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.BackupBrands.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface - 任意多边形\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.BrandManagement.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface - 任意多边形\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.DevicesSetup.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface - 任意多边形\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Startup.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface - 任意多边形\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.StatisticsView.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface - 任意多边形\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Work.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface - 任意多边形\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.SystemConfiguration.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface - 任意多边形\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.ImageConfiguration.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface - 任意多边形\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.LiveView.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface - 任意多边形\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Load.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface - 任意多边形\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Properties.Resources.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface - 任意多边形\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.QualityCheck.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface - 任意多边形\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.RestoreBrands.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface - 任意多边形\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Template.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface - 任意多边形\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.TolerancesSettings.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface - 任意多边形\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.csproj.GenerateResource.Cache
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface - 任意多边形\VisionSystemUserInterface\bin\x64\Release\Emgu.CV.Platform.NetStandard.dll
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemUserInterface - 任意多边形\VisionSystemUserInterface\bin\x64\Release\Emgu.CV.Bitmap.dll
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\bin\x64\Release\VisionSystemUserInterface.exe.config
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.exe
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.pdb
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\bin\x64\Release\VisionSystemUserInterface.exe
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\bin\x64\Release\VisionSystemUserInterface.pdb
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.csprojResolveAssemblyReference.cache
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.BackupBrands.resources
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.BrandManagement.resources
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.DevicesSetup.resources
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Startup.resources
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.StatisticsView.resources
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Work.resources
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.SystemConfiguration.resources
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.ImageConfiguration.resources
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.LiveView.resources
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Load.resources
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Properties.Resources.resources
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.QualityCheck.resources
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.RestoreBrands.resources
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Template.resources
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.TolerancesSettings.resources
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.csproj.GenerateResource.Cache
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\bin\x64\Release\Emgu.CV.Platform.NetStandard.dll
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemUserInterface\VisionSystemUserInterface\bin\x64\Release\Emgu.CV.Bitmap.dll
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\bin\x64\Release\VisionSystemUserInterface.exe.config
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.exe
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.pdb
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\bin\x64\Release\VisionSystemUserInterface.exe
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\bin\x64\Release\VisionSystemUserInterface.pdb
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\bin\x64\Release\Emgu.CV.Platform.NetStandard.dll
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\bin\x64\Release\Emgu.CV.Bitmap.dll
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.csprojResolveAssemblyReference.cache
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.BackupBrands.resources
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.BrandManagement.resources
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.DevicesSetup.resources
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Startup.resources
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.StatisticsView.resources
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Work.resources
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.SystemConfiguration.resources
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.ImageConfiguration.resources
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.LiveView.resources
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Load.resources
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Properties.Resources.resources
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.QualityCheck.resources
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.RestoreBrands.resources
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Template.resources
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.TolerancesSettings.resources
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.csproj.GenerateResource.Cache
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\bin\x64\Release\VisionSystemUserInterface.exe.config
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.exe
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.pdb
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\bin\x64\Release\VisionSystemUserInterface.exe
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\bin\x64\Release\VisionSystemUserInterface.pdb
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\bin\x64\Release\Emgu.CV.Platform.NetStandard.dll
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\bin\x64\Release\Emgu.CV.Bitmap.dll
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.csprojResolveAssemblyReference.cache
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.BackupBrands.resources
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.BrandManagement.resources
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.DevicesSetup.resources
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Startup.resources
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.StatisticsView.resources
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Work.resources
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.SystemConfiguration.resources
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.ImageConfiguration.resources
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.LiveView.resources
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Load.resources
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Properties.Resources.resources
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.QualityCheck.resources
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.RestoreBrands.resources
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.Template.resources
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.TolerancesSettings.resources
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemUserInterface\VisionSystemUserInterface\obj\x64\Release\VisionSystemUserInterface.csproj.GenerateResource.Cache

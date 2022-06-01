@@ -1,0 +1,80 @@
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing_20181123-故障立即更新 - 掉线\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.Load.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing_20181123-故障立即更新 - 掉线\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.Properties.Resources.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing_20181123-故障立即更新 - 掉线\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.Work.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing_20181123-故障立即更新 - 掉线\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.csproj.GenerateResource.Cache
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing_20181123-故障立即更新 - 掉线\VisionSystemImageProcessing\bin\x64\Release\VisionSystemImageProcessing.exe.config
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing_20181123-故障立即更新 - 掉线\VisionSystemImageProcessing\bin\x64\Release\VisionSystemImageProcessing.exe
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing_20181123-故障立即更新 - 掉线\VisionSystemImageProcessing\bin\x64\Release\VisionSystemImageProcessing.pdb
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing_20181123-故障立即更新 - 掉线\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.exe
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing_20181123-故障立即更新 - 掉线\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.pdb
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing_20181123-故障立即更新 - 掉线\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.csprojResolveAssemblyReference.cache
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\VisionSystemImageProcessing.exe.config
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.exe
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.pdb
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\VisionSystemImageProcessing.exe
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\VisionSystemImageProcessing.pdb
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.Load.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.Properties.Resources.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.Work.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.csproj.GenerateResource.Cache
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\备份2021.03.12\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\VisionSystemImageProcessing.exe.config
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\备份2021.03.12\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.exe
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\备份2021.03.12\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.pdb
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\备份2021.03.12\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\VisionSystemImageProcessing.exe
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\备份2021.03.12\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\VisionSystemImageProcessing.pdb
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\备份2021.03.12\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.Load.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\备份2021.03.12\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.Properties.Resources.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\备份2021.03.12\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.Work.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\备份2021.03.12\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.csproj.GenerateResource.Cache
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\备份2021.03.12\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\Emgu.CV.Platform.NetStandard.dll
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\备份2021.03.12\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\Emgu.CV.Bitmap.dll
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\备份2021.03.12\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.csprojResolveAssemblyReference.cache
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.csprojResolveAssemblyReference.cache
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing - 任意多边形\VisionSystemImageProcessing\bin\x64\Release\VisionSystemImageProcessing.exe.config
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing - 任意多边形\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.exe
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing - 任意多边形\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.pdb
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing - 任意多边形\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.csprojResolveAssemblyReference.cache
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing - 任意多边形\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.Load.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing - 任意多边形\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.Properties.Resources.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing - 任意多边形\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.Work.resources
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing - 任意多边形\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.csproj.GenerateResource.Cache
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing - 任意多边形\VisionSystemImageProcessing\bin\x64\Release\VisionSystemImageProcessing.exe
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing - 任意多边形\VisionSystemImageProcessing\bin\x64\Release\VisionSystemImageProcessing.pdb
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\Emgu.CV.Platform.NetStandard.dll
+E:\Jhg\7.I-C\s_c\关联\bj-vs2015-.net4.6.1\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\Emgu.CV.Bitmap.dll
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\VisionSystemImageProcessing.exe.config
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.exe
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.pdb
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\VisionSystemImageProcessing.exe
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\VisionSystemImageProcessing.pdb
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.csprojResolveAssemblyReference.cache
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.Load.resources
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.Properties.Resources.resources
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.Work.resources
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.csproj.GenerateResource.Cache
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\Emgu.CV.Platform.NetStandard.dll
+E:\Jhg\7.I-C\s_c\gl\bj-vs2015-.net4.6.1\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\Emgu.CV.Bitmap.dll
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\VisionSystemImageProcessing.exe.config
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.exe
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.pdb
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\VisionSystemImageProcessing.exe
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\VisionSystemImageProcessing.pdb
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\Emgu.CV.Platform.NetStandard.dll
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\Emgu.CV.Bitmap.dll
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.csprojResolveAssemblyReference.cache
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.Load.resources
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.Properties.Resources.resources
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.Work.resources
+D:\software\VS-Code\Project_Code\yagao code\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.csproj.GenerateResource.Cache
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\VisionSystemImageProcessing.exe.config
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.exe
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.pdb
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\VisionSystemImageProcessing.exe
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\VisionSystemImageProcessing.pdb
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\Emgu.CV.Platform.NetStandard.dll
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemImageProcessing\VisionSystemImageProcessing\bin\x64\Release\Emgu.CV.Bitmap.dll
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.csprojResolveAssemblyReference.cache
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.Load.resources
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.Properties.Resources.resources
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.Work.resources
+D:\SKQ\VS-Code\Project_Code\yagao code\VisionSystemImageProcessing\VisionSystemImageProcessing\obj\x64\Release\VisionSystemImageProcessing.csproj.GenerateResource.Cache

@@ -1,0 +1,21 @@
+C:\Documents and Settings\zhuwenxiang\桌面\EIVision\EIVision\bin\Debug\EIVision.dll
+C:\Documents and Settings\zhuwenxiang\桌面\EIVision\EIVision\bin\Debug\EIVision.pdb
+C:\Documents and Settings\zhuwenxiang\桌面\EIVision\EIVision\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\zhuwenxiang\桌面\EIVision\EIVision\obj\Debug\EIVision.dll
+C:\Documents and Settings\zhuwenxiang\桌面\EIVision\EIVision\obj\Debug\EIVision.pdb
+C:\Documents and Settings\jiangtao063\桌面\桌面\EIVision\EIVision\bin\Debug\EIVision.dll
+C:\Documents and Settings\jiangtao063\桌面\桌面\EIVision\EIVision\bin\Debug\EIVision.pdb
+C:\Documents and Settings\jiangtao063\桌面\桌面\EIVision\EIVision\bin\Debug\Emgu.CV.dll
+C:\Documents and Settings\jiangtao063\桌面\桌面\EIVision\EIVision\bin\Debug\Emgu.CV.UI.dll
+C:\Documents and Settings\jiangtao063\桌面\桌面\EIVision\EIVision\bin\Debug\Emgu.Util.dll
+C:\Documents and Settings\jiangtao063\桌面\桌面\EIVision\EIVision\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jiangtao063\桌面\桌面\EIVision\EIVision\obj\Debug\EIVision.dll
+C:\Documents and Settings\jiangtao063\桌面\桌面\EIVision\EIVision\obj\Debug\EIVision.pdb
+E:\Program Files\EIVision\EIVision\bin\Debug\EIVision.dll
+E:\Program Files\EIVision\EIVision\bin\Debug\EIVision.pdb
+E:\Program Files\EIVision\EIVision\bin\Debug\Emgu.CV.dll
+E:\Program Files\EIVision\EIVision\bin\Debug\Emgu.CV.UI.dll
+E:\Program Files\EIVision\EIVision\bin\Debug\Emgu.Util.dll
+E:\Program Files\EIVision\EIVision\obj\Debug\ResolveAssemblyReference.cache
+E:\Program Files\EIVision\EIVision\obj\Debug\EIVision.dll
+E:\Program Files\EIVision\EIVision\obj\Debug\EIVision.pdb
