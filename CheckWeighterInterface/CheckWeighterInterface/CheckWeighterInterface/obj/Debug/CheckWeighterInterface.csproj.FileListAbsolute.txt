@@ -574,3 +574,6 @@ D:\SKQ\VS-Code\Demo\CheckWeighterInterface\CheckWeighterInterface\CheckWeighterI
 D:\SKQ\VS-Code\Demo\CheckWeighterInterface\CheckWeighterInterface\CheckWeighterInterface\obj\Debug\CheckWeighterInterface.test.test.resources
 D:\SKQ\VS-Code\Demo\CheckWeighterInterface\CheckWeighterInterface\CheckWeighterInterface\obj\Debug\CheckWeighterInterface.csproj.GenerateResource.Cache
 D:\SKQ\VS-Code\Demo\CheckWeighterInterface\CheckWeighterInterface\CheckWeighterInterface\obj\Debug\CheckWeighterInterface.exe.licenses
+D:\SKQ\VS-Code\Project_Code\CheckWeighterInterface\CheckWeighterInterface\CheckWeighterInterface\bin\Debug\CheckWeighterInterface.exe.config
+D:\SKQ\VS-Code\Project_Code\CheckWeighterInterface\CheckWeighterInterface\CheckWeighterInterface\obj\Debug\CheckWeighterInterface.exe
+D:\SKQ\VS-Code\Project_Code\CheckWeighterInterface\CheckWeighterInterface\CheckWeighterInterface\obj\Debug\CheckWeighterInterface.pdb
