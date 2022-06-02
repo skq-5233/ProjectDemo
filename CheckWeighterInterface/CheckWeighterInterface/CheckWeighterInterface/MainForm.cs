@@ -38,7 +38,7 @@ namespace CheckWeighterInterface
             InitializeComponent();
             initMainForm();
         }
-
+           
         private void timer_datetime_Tick(object sender, EventArgs e)
         {
             now = DateTime.Now;
